@@ -33,5 +33,4 @@ Before utilizing the provided code, please take note of the following guidelines
 By utilizing this code, you acknowledge and agree to these terms and conditions. It is important to exercise responsible and ethical behavior while using this code to maintain a positive and lawful online environment.
 
 ## Contributing / Feedback
-If you would like to add feedback on this project or feel like helping us out by giving us code, you can find contact the owner multiple ways, however the best and most effective way would be via Discord. You can join the Discord server and contact "TCSMasked" via text channels about this project there. You can join using this link:
-**https://discord.maskednet.org/**
+If you would like to add feedback on this project or feel like helping us out by giving us code, you can find contact the owner multiple ways, however the best and most effective way would be via Discord. You can join the Discord server and contact "TCSMasked" via text channels about this project there. You can join **[here](https://maskednet.org/discord)**.
